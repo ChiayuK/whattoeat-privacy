@@ -1,5 +1,6 @@
 # whattoeat-privacy
 WhatToEat Privacy Policy
+
 Privacy Policy for WhatToEat
 
 Last updated: August 2026
